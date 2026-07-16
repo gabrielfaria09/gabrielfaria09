@@ -1,3 +1,3 @@
 # 🎯⚔️ Gabriel Alves Faria ⚔️🎯
 
-\*\*'Estudante de desenvolvimento de sistemas'\*\*
+**'Estudante de desenvolvimento de sistemas'**
