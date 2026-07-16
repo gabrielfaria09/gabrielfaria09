@@ -44,7 +44,3 @@ Busco aprender a progaramar um pouco de tudo, desde arduino, até páginas web e
 
 <br/>
 <br/>
-
-### 🎯⚔️ Estastísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielfaria09&show_icons=true&theme=radial)
