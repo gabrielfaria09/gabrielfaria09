@@ -51,13 +51,17 @@ Busco aprender a programar um pouco de tudo, desde hardwares como arduino, até 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
+
+---
+
+<br>
+
 ### 🎯⚔️ Linguagens mais usadas
 
 <img 
     align="left"
     alt="Linguagens mais usadas"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfaria09&layout=compact&theme=github_dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfaria09&layout=compact&theme=github_dark&hide=html,css"
 />
-<br/><br/>
-<br/>
-<br/>
+
+<br>
